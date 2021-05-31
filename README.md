@@ -30,3 +30,7 @@
 **font style in bold**
 
 ***font style in itallic and bold***
+
+![doremon](https://1.bp.blogspot.com/-I2gvE1t1Z2A/XtzN99yhx4I/AAAAAAAAAGA/bNPCNH2coIIYep3TMtMdj_5WZHIo3e0vwCLcBGAsYHQ/s640/doraemon-2005.jpg)
+
+[google](https://www.google.com/)
