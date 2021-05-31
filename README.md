@@ -14,3 +14,19 @@
     * potato
     * tamato
     * onion
+
+# ordered list
+ 1.numbers
+ 
+ 2.digits
+ 
+     1. natural numbers
+     2. whole numbers
+     3. integers
+     
+
+*font style in intalic*
+
+**font style in bold**
+
+***font style in itallic and bold***
